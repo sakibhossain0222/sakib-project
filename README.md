@@ -1,3 +1,3 @@
 # sakib-project
-new project \n 
+new project 
 this is my first trial project for learning how to use github initially 
